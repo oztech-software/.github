@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oztech-software/.github/main/profile/oztech-logo.png" alt="Oztech logo" width="120">
+  <img src="https://raw.githubusercontent.com/oztech-software/.github/main/profile/oztech-logo.jpg" alt="Oztech logo" width="120">
 </p>
 
 <h1 align="center">Oztech Software</h1>
